@@ -1,4 +1,4 @@
-# japonstina-pro-neoborove-studenty-procvicovani-kanji
+# Kanji pro neoborové studenty - procvičování čtení a překladu
 Interaktivní webová hra na procvičování kanji dle seznamu používaného v rámci neoborového kurzu na MUNI
 
 ## ✨ Funkce
@@ -9,7 +9,7 @@ Interaktivní webová hra na procvičování kanji dle seznamu používaného v 
 
 ## 💻 Jak spustit
 Stačí otevřít `index.html` v prohlížeči nebo navštívit  
-👉 https://estermilostna.github.io/japon-tina-pro-neoborov-studenty---procvi-ov-n-kanji
+👉 https://estermilostna.github.io/kanji-pro-neoborove-studenty-muni
 
 ## 🪪 Licence
 MIT License © 2025 Ester Milostná
